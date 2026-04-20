@@ -87,7 +87,8 @@
 * Т.е. вся работа расписана на 24 часа, если нужно чтобы цвет горел через полночь, нужно настроить два Color до 00:00 и соответственно после.
 * Например, нужно чтобы цвет горел с 23:00 до 01:00 следующего дня, нужно настроить Color1 start 00:00 end 01:00 и Color2 start 23:00 end 00:00. Естественно следующий день должен быть включен в расписании.
   
-<img width="2175" height="446" alt="Time1" src="https://github.com/user-attachments/assets/5a5dd0ed-7409-4b1c-b522-14162927b382" />
+<img width="2175" height="446" alt="Time3" src="https://github.com/user-attachments/assets/e3df6009-e886-403a-b7a6-b31356eca739" />
+
 
 
 #### 4. TIMETABLE
