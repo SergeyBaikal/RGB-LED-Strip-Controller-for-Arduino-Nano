@@ -133,10 +133,10 @@
 ### Зависимости (Библиотеки)
 Перед компиляцией убедитесь, что в Arduino IDE установлены следующие библиотеки (Менеджер библиотек: *Скетч -> Подключить библиотеку -> Управлять библиотеками*):
 
-1.  **LiquidCrystal_I2C** (by Frank de Brabander)
-2.  **EncButton** (by AlexGyver)
-3.  **GyverDS3231** (by AlexGyver)
-4.  **GyverPWM** (by AlexGyver)
+1.  **LiquidCrystal_I2C v.2.0.0** (by Frank de Brabander)
+2.  **EncButton v.3.7.4** (by AlexGyver)
+3.  **GyverDS3231 v.1.2.0** (by AlexGyver)
+4.  **GyverPWM v.1.6.1** (by AlexGyver)
 
 ### Настройки платы
 1.  Выберите плату: `Arduino Nano`.
